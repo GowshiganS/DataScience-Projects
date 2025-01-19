@@ -48,7 +48,7 @@ pip install numpy pandas matplotlib scikit-learn
 1. Clonez ce dépôt :
 
     ```bash
-    git clone <https://github.com/GowshiganS/DataScience-Projects/Projet 2: Machine Learning appliqué aux données textuelles.git>
+    git clone <https://github.com/GowshiganS/DataScience-Projects.git>
     ```
 
 2. Naviguez dans le répertoire :
