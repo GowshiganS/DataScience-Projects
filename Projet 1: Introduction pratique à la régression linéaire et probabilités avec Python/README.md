@@ -39,7 +39,7 @@ pip install numpy pandas matplotlib statsmodels
 1. Clonez ce dépôt :
     
     ```bash
-    git clone https://github.com/GowshiganS/DataScience-Projects.git
+    git clone https://github.com/GowshiganS/DataScience-Projects/Projet 1: Introduction pratique à la régression linéaire et probabilités avec Python.git
     ```
     
 2. Naviguez dans le répertoire :
