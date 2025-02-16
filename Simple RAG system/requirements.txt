@@ -1,0 +1,15 @@
+A simple command to install the libraries you need
+
+pip install sentence-transformers faiss-cpu transformers fastapi uvicorn streamlit requests numpy
+
+The Libraries with the versions :
+
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+transformers
+streamlit
+requests
+numpy
+
