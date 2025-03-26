@@ -70,7 +70,7 @@ R² ≤ 0 pour tous les modèles testés
 
 ## Auteur
 
-- Gowshigan Selladurai — Étudiant en Master Informatique, parcours Data
+- Gowshigan Selladurai 
 
 ## Licence
 
