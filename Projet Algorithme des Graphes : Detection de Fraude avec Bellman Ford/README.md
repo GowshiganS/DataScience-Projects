@@ -11,7 +11,6 @@
 
 1. [Contexte](#contexte)
 2. [Approche](#approche)
-3. [Structure du dépôt](#structure-du-dépôt)
 4. [Installation](#installation)
 5. [Lancement rapide](#lancement-rapide)
 6. [Résultats](#résultats)
@@ -50,20 +49,6 @@ Dans ce prototype :
 5. **Visualisation et rapport**
    - Arêtes rouges = suspectes, étiquette du score sur le graphe.
 
-## Structure du dépôt
-
-```text
-.
-├── data/                # (optionnel) jeux de données externes
-├── notebooks/
-│   └── Projet_Detection_Fraude_Notebook.ipynb
-├── src/                 # modules réutilisables
-│   ├── graph_utils.py
-│   └── scoring.py
-├── docs/                # figures pour le README / présentations
-├── requirements.txt
-└── README.md            # vous êtes ici ✨
-```
 
 ## Installation
 
