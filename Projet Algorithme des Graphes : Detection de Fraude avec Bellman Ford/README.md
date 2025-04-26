@@ -55,9 +55,11 @@ Dans ce prototype :
 > Pré‑requis : **Python ≥ 3.9**, `git`, `virtualenv` ou `conda`.
 
 ```bash
-# 1. Cloner le dépôt
-$ git clone https://github.com/<votre-username>/projet-detection-fraude.git
-$ cd projet-detection-fraude
+# 1. Cloner le dépôt principal contenant tous les projets
+$ git clone https://github.com/GowshiganS/DataScience-Projects.git
+
+# 2. Aller dans le dossier de ce projet
+$ cd "DataScience-Projects/Projet Algorithme des Graphes : Detection de Fraude avec Bellman Ford"
 
 # 2. Créer un environnement
 $ python -m venv .venv
